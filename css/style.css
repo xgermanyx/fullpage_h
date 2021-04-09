@@ -6,7 +6,8 @@ h1, h2, h3, h4, h5, h6, p{margin: 0;}
 ul, ol{margin: 0; padding: 0; list-style: none;}
 a{text-decoration: none;}
 
-body{width: 100%; /*overflow: hidden;*/}
+
+body{width: 100%; overflow: hidden;}
 
 header{position: fixed; top:0; left:0; width: 100%; height: 60px; background: rgba(0,0,0,0.75); z-index: 3; /*transform:translateY(-100%);*/ transition: transform 0.5s;}
 
